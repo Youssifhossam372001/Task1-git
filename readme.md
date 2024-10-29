@@ -1,2 +1,1 @@
-Hello
-Hello from intern B
+Hello from intern 3
